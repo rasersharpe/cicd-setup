@@ -13,19 +13,21 @@
 
 ## Description
 
-blah
+This is a small web app that quizzes the user on coding.
+
+For educational purposes, this web app tested my CI/CD building skills.
 
 ## Installation
 
-blah
+To install this web app, clone the Github repo and run `npm run render:build` and then `npm run start` in command line.
 
 ## Usage
 
-blah
+To use this web app, click the "Start Quiz" button. Then answer the questions to the best of your ability. After ten questions, you will be shown your score and you'll have the option to restart the quiz.
 
 ## Collaborators
 
-blah
+For this Tech Quiz / CI/CD challenge, I relied on our class repo and the help of our class TA.
 
 ## Questions
 
